@@ -6,6 +6,6 @@ text text text text text text text1
 
 text text text text text text text2
 
-<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4270.png" width="1000" height="175" align="right">
+<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4270.png" width="750" height="175" align="right">
 
 text text text text text text text3
