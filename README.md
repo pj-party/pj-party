@@ -1,4 +1,4 @@
-<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4270.png" height="200" width="700" align="left">
+<img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4270.png" height="200" width="500" align="left">
 
 ![](https://komarev.com/ghpvc/?username=pj-party&color=ffffff&style=flat-square&label=)
 
