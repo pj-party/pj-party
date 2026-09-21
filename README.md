@@ -8,6 +8,4 @@ text text text2
 
 <img src="https://file.garden/aXu6apkcPAJchg7L/IMG_4270.png" width="1225" height="175" align="right">
 
-<div align="right">
-
 text text text3
